@@ -1,8 +1,1 @@
-﻿  main.c
-D:\C\1000 bài tập\Student\Student\main.c(96,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-D:\C\1000 bài tập\Student\Student\main.c(376,37): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
-D:\C\1000 bài tập\Student\Student\main.c(840,28): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
-D:\C\1000 bài tập\Student\Student\main.c(1079,24): warning C4133: 'function': incompatible types - from 'CourseInfo [500]' to 'StudentInfo *'
-D:\C\1000 bài tập\Student\Student\main.c(1178,23): warning C4133: 'function': incompatible types - from 'CourseInfo [500]' to 'StudentInfo *'
-D:\C\1000 bài tập\Student\Student\main.c(519): warning C4715: 'CheckAlreadyExists': not all control paths return a value
-  Student.vcxproj -> D:\C\1000 bài tập\Student\x64\Debug\Student.exe
+﻿  Student.vcxproj -> D:\GitHub\SystemStudentManagement\x64\Debug\Student.exe
