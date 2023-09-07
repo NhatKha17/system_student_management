@@ -1,1 +1,3 @@
-﻿  Student.vcxproj -> D:\GitHub\SystemStudentManagement\x64\Debug\Student.exe
+﻿  Function.c
+D:\GitHub\SystemStudentManagement\Student\Function.c(471): warning C4715: 'CheckAlreadyExists': not all control paths return a value
+  Student.vcxproj -> D:\GitHub\SystemStudentManagement\x64\Debug\Student.exe
